@@ -45,7 +45,7 @@ spec:
     orderer:
       address: orderer1.supplychain-net:7050
     channeltx: |-
-      CtkDChgKFggCGgYIjY/HmAYiCmFsbGNoYW5uZWwSvAMKuQMKCmFsbGNoYW5uZWwSRhI0CgtBcHBs
+      CtkDChgKFggCGgYIuaLHmAYiCmFsbGNoYW5uZWwSvAMKuQMKCmFsbGNoYW5uZWwSRhI0CgtBcHBs
       aWNhdGlvbhIlEg4KCmNhcnJpZXJNU1ASABITCg9tYW51ZmFjdHVyZXJNU1ASABoOCgpDb25zb3J0
       aXVtEgAa4gIStgIKC0FwcGxpY2F0aW9uEqYCCAESDgoKY2Fycmllck1TUBIAEhMKD21hbnVmYWN0
       dXJlck1TUBIAGiQKDENhcGFiaWxpdGllcxIUEgoKCAoEVjJfMBIAGgZBZG1pbnMiIgoGQWRtaW5z
