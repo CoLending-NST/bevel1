@@ -27,7 +27,7 @@ spec:
     vault:
       reviewer_service: vault-reviewer
       role: vault-role
-      address: http://20.187.170.165:8200
+      address: http://20.247.54.201:8200
       authpath: fabricmanufacturer-net-auth
       policy: vault-crypto-peer-manufacturer-net-ro
       secret_path: secretsv2
